@@ -6,17 +6,17 @@ My current research interests are opne to AI/ML questions, including language pr
 
 --------------
 ## Awards and Honours
-**2025 UBC Markus Meister Memorial Prize in Computer Science**
-**2025 UBC Academic Award of Excellence**
-**2025 UBC Graduation with Distinction**
-**2025 UBC Graduation with Co-operative Education Designation**
-**2024 UBC Faculty of Science International Student Scholarship**
-**2021 UBC Faculty of Science International Student Scholarship**
-**2021 UBC J Fred Muir Memorial Scholarship**
-**2021 UBC Science Dean’s Honor List**
-**2021 UBC Science Scholar List**
-**2021 UBC Trek Excellence Scholarship**
-**2020 UBC Trek Excellence Scholarship**
+- **2025 UBC Markus Meister Memorial Prize in Computer Science**
+- **2025 UBC Academic Award of Excellence**
+- **2025 UBC Graduation with Distinction**
+- **2025 UBC Graduation with Co-operative Education Designation**
+- **2024 UBC Faculty of Science International Student Scholarship**
+- **2021 UBC Faculty of Science International Student Scholarship**
+- **2021 UBC J Fred Muir Memorial Scholarship**
+- **2021 UBC Science Dean’s Honor List**
+- **2021 UBC Science Scholar List**
+- **2021 UBC Trek Excellence Scholarship**
+- **2020 UBC Trek Excellence Scholarship**
 
 --------------
 ## Teaching
