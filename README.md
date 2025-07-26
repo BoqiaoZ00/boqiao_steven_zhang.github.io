@@ -1,4 +1,4 @@
-I am currently a Master of Philosophy at [University of Cambridge, Deparment of Engineering](https://www.eng.cam.ac.uk/). 
+I am currently a Master of Philosophy (MPhil) at [University of Cambridge, Deparment of Engineering](https://www.eng.cam.ac.uk/). 
 
 I received a Bachelor's of Science (BSc) degree in Computer Science Combined Mathematics at the University of British Columbia (UBC)in Vancouver, BC, Canada. During my undergrad, I had broad interests in many fields, and had pleasures of working with some nicest professors, such as database with [Prof. Rachel Pottinger](https://www.cs.ubc.ca/people/rachel-pottinger), numerical analysis with [Prof. Chen Greif](https://www.cs.ubc.ca/people/chen-greif), math-bio with [Prof. Anotida Madzvamuse](https://www.math.ubc.ca/user/3665), etc.
 
