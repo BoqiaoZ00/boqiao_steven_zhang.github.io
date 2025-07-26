@@ -1,6 +1,6 @@
-I am currently a Master of Philosophy (MPhil) at [University of Cambridge, Deparment of Engineering](https://www.eng.cam.ac.uk/). 
+I am currently a Master of Philosophy (MPhil) in Machine Learning and Machine Intelligence (MLMI), at [the University of Cambridge, Deparment of Engineering](https://www.eng.cam.ac.uk/). 
 
-I received a Bachelor's of Science (BSc) degree in Computer Science Combined Mathematics at the University of British Columbia (UBC) in Vancouver, BC, Canada. During my undergrad, I explored a wide range of academic interests, and had pleasures of working with exceptional professors, including [Prof. Rachel Pottinger](https://www.cs.ubc.ca/people/rachel-pottinger) (databases), [Prof. Chen Greif](https://www.cs.ubc.ca/people/chen-greif) (numerical analysis), [Prof. Anotida Madzvamuse](https://www.math.ubc.ca/user/3665) (mathematical biology), etc.
+I received a Bachelor's of Science (BSc) degree in Computer Science Combined Mathematics at [the University of British Columbia (UBC)](https://www.ubc.ca/) in Vancouver, BC, Canada. During my undergrad, I explored a wide range of academic interests, and had pleasures of working with exceptional professors, including [Prof. Rachel Pottinger](https://www.cs.ubc.ca/people/rachel-pottinger) (databases), [Prof. Chen Greif](https://www.cs.ubc.ca/people/chen-greif) (numerical analysis), [Prof. Anotida Madzvamuse](https://www.math.ubc.ca/user/3665) (mathematical biology), etc.
 
 My current research interests span AI/ML topics, including natural language processing, computer vision/graphics, human-computer interaction, etc.
 
